@@ -112,6 +112,6 @@
 <br>
 
 -----
-Credits: [DKLiberty](https://github.com/DKLiberty)
+Credits: [Armenrei](https://github.com/Armenrei)
 
 Last Edited on: 28/09/2024
